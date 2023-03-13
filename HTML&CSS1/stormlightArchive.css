@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('http://vignette3.wikia.nocookie.net/stormlightarchive/images/e/eb/Surgebinders.jpg/revision/latest?cb=20141103012851');
+}
+body,html{
+    height:100%;
+    padding:0;
+    margin:0;
+}
